@@ -1,0 +1,30 @@
+Veri Tabanı Rehberi 
+Klasör içerisindeki proje.sql uzantılı dosyayı SQL Server Management Studio uygulaması ile açıyoruz ve execute butonuna basarak veri tabanını oluşturuyoruz. Açıldıktan sonra sql kodları görüntülenecektir bu alanda eğer aşağı kaydırma yaparsak resimleri yükleme hatasından dolayı hata alınabilir o sebeple aşağı kaydırmadan direkt açıldığı gibi execute etmek de işe yarayacaktır.
+
+Veri tabanımızda çok fazla resim verisi tutulduğu için uygulama bazen yanıt vermeyebiliyor. Öyle bir durumda da Windows+R tuşları ile bilgisayarımızın 'Çalıştır' alanına erişiyoruz. Bu alandaki Aç: alanının yanındaki arama bölümüne cmd yazarak Komut İstemini açmamız gerekiyor.
+
+
+Eğer SQL'i Windows Kimlik Doğrulaması Açık Bir şekilde Kullanıyorsanız bu komutu yazmalısınız:
+sqlcmd -S SunucuAdı -E -i "dosyauzantısıl"
+
+Örnek:
+sqlcmd -S SONGUL -E -i "C:\Users\guree\Desktop\Proje\proje.sql"
+şeklinde olmalıdır.
+
+SONGUL: Management Studio'ya giriş yaparken görünen Server Name alanında yazan isim olmalıdır.
+Dosya yolu: proje.sql dosyasının bulunduğu klasörün yolu yazılmalıdır.
+
+Eğer Windows Kimlik Doğrulamasız kullanıyorsanız bu komutu yazmalısınız:
+sqlcmd -S Sunucuadınız -U Kullanıcıadınız -P Şifreniz -i ".sql uzantılı dosyanın bulunduğu dosya yolu"
+
+Bu komutlardan sonra veri tabanımız entegre olmuş mu diye kontrol ediyoruz.
+Uyarı: Bazı arkadaşlarımda proje adında bir database oluşturmadan içe aktarım yapılmadı. Eğer yazdığımız komutlardan sonra arka arkaya birçok defa (1 rows affected) yazısı gelmediyse ilk önce proje adında bir database oluşturup ondan sonra bu komutları tekrar yazmayı deneyiniz.)
+
+Visual Studio' da ise her bir sınıftaki veri tabanı bağlantımızı kendi bilgisayarımıza göre düzenliyoruz.
+
+KayitOl sınıfında 9. Satır
+Giris sınıfında 28. satır
+Sepet Sınıfında: 11. Satır
+Menu Sınıfında 15. Satır
+GecmisSiparis sınıfında 11. Satır
+BilgiGuncelle sınıfında 16. Satır

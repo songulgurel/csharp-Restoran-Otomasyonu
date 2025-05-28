@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\proje\\gecmissiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\gecmissiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|c:\\users\\hivda\\onedrive - ogr.gelisim.edu.tr\\masa\u00FCst\u00FC\\proje\\19.04.25\\proje\\proje\\proje\\gecmissiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\gecmissiparisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\proje\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\proje\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\proje\\sepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\sepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\proje\\sepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\sepet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\proje\\sepet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\sepet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\menu.cs",
+              "RelativeDocumentMoniker": "Proje\\menu.cs",
+              "ToolTip": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\menu.cs",
+              "RelativeToolTip": "Proje\\menu.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAtwKMBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:30:13.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\menu.cs",
+              "RelativeDocumentMoniker": "Proje\\menu.cs",
+              "ToolTip": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\Tarih_ 23.03.25 Saat_ 19.01\\Proje\\Proje\\Proje\\menu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Tarih_ 23.03.25 Saat_ 19.01\\Proje\\Proje\\Proje\\menu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:30:10.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GecmisSiparisler.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\GecmisSiparisler.cs",
+              "RelativeDocumentMoniker": "Proje\\GecmisSiparisler.cs",
+              "ToolTip": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\GecmisSiparisler.cs",
+              "RelativeToolTip": "Proje\\GecmisSiparisler.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAcwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:19:57.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GecmisSiparisler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\GecmisSiparisler.cs",
+              "RelativeDocumentMoniker": "Proje\\GecmisSiparisler.cs",
+              "ToolTip": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\GecmisSiparisler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje\\GecmisSiparisler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:51:18.84Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sepet.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\sepet.cs",
+              "RelativeDocumentMoniker": "Proje\\sepet.cs",
+              "ToolTip": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\sepet.cs",
+              "RelativeToolTip": "Proje\\sepet.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAtwI8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:44:54.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sepet.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\sepet.cs",
+              "RelativeDocumentMoniker": "Proje\\sepet.cs",
+              "ToolTip": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\Tarih_ 23.03.25 Saat_ 19.01\\Proje\\Proje\\Proje\\sepet.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Tarih_ 23.03.25 Saat_ 19.01\\Proje\\Proje\\Proje\\sepet.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:44:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sepet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\sepet.Designer.cs",
+              "RelativeDocumentMoniker": "Proje\\sepet.Designer.cs",
+              "ToolTip": "C:\\Users\\hivda\\OneDrive - ogr.gelisim.edu.tr\\Masa\u00FCst\u00FC\\Proje\\19.04.25\\Proje\\Proje\\Proje\\sepet.Designer.cs",
+              "RelativeToolTip": "Proje\\sepet.Designer.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAtwC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:31:37.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

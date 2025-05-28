@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guree\\Desktop\\C#\\Kod Dosyalar\u0131\\Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|c:\\users\\guree\\desktop\\c#\\kod dosyalar\u0131\\proje\\proje\\bilgiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\bilgiguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|C:\\Users\\guree\\Desktop\\C#\\Kod Dosyalar\u0131\\Proje\\proje\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8DFA008-959A-4934-A96E-F39837896B67}|Proje\\Proje.csproj|solutionrelative:proje\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bilgiGuncelle.cs",
+              "DocumentMoniker": "C:\\Users\\guree\\Desktop\\C#\\Kod Dosyalar\u0131\\Proje\\Proje\\bilgiGuncelle.cs",
+              "RelativeDocumentMoniker": "Proje\\bilgiGuncelle.cs",
+              "ToolTip": "C:\\Users\\guree\\Desktop\\C#\\Kod Dosyalar\u0131\\Proje\\Proje\\bilgiGuncelle.cs",
+              "RelativeToolTip": "Proje\\bilgiGuncelle.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:56:26.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guree\\Desktop\\C#\\Kod Dosyalar\u0131\\Proje\\Proje\\Giris.cs",
+              "RelativeDocumentMoniker": "Proje\\Giris.cs",
+              "ToolTip": "C:\\Users\\guree\\Desktop\\230111135 Song\u00FCl G\u00FCrel\\Kod Dosyalar\u0131\\Proje\\Proje\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\230111135 Song\u00FCl G\u00FCrel\\Kod Dosyalar\u0131\\Proje\\Proje\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:56:12.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

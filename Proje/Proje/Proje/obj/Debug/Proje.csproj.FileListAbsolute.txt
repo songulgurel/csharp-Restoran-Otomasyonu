@@ -1,0 +1,120 @@
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\obj\Debug\Proje.Giris.resources
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\Google.Protobuf.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\MySql.Data.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Buffers.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.IO.Pipelines.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Memory.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\ZstdSharp.dll
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\Google.Protobuf.pdb
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\Google.Protobuf.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\MySql.Data.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Buffers.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.IO.Pipelines.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Memory.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\guree\Desktop\Projeler\C# II Projeleri\Proje\Proje\obj\Debug\Proje.csproj.Up2Date
+C:\Users\guree\Desktop\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\guree\Desktop\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\guree\Desktop\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.frmMain.resources
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.Giris.resources
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.hakkimizda.resources
+C:\Users\guree\Desktop\Proje\Proje\bin\Debug\System.Data.SqlClient.dll
+C:\Users\guree\Desktop\Proje\Proje\bin\Debug\System.Data.SqlClient.xml
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.csproj.Up2Date
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.bilgiGuncelle.resources
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.KayitOl.resources
+C:\Users\guree\Desktop\Projeler\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\guree\Desktop\Projeler\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\guree\Desktop\Projeler\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\guree\Desktop\Projeler\Proje\Proje\bin\Debug\System.Data.SqlClient.dll
+C:\Users\guree\Desktop\Projeler\Proje\Proje\bin\Debug\System.Data.SqlClient.xml
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.bilgiGuncelle.resources
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.frmMain.resources
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.Giris.resources
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.hakkimizda.resources
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.KayitOl.resources
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.menu.resources
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.csproj.Up2Date
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\guree\Desktop\Projeler\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.menu.resources
+C:\Users\guree\Desktop\Proje\Proje\obj\Debug\Proje.sepet.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.bilgiGuncelle.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.frmMain.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.Giris.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.hakkimizda.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.KayitOl.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.menu.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.sepet.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.GecmisSiparisler.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\Tarih_ 23.03.25 Saat_ 19.01\Proje\Proje\Proje\obj\Debug\Proje.csproj.Up2Date
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.bilgiGuncelle.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.frmMain.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.GecmisSiparisler.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.Giris.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.hakkimizda.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.KayitOl.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.menu.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.sepet.resources
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.csproj.Up2Date
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\hivda\OneDrive - ogr.gelisim.edu.tr\Masaüstü\Proje\19.04.25\Proje\Proje\Proje\obj\Debug\Proje.pdb
